@@ -156,4 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ and lots of ☕ by the Rust community.</content>
-<parameter name="filePath">/home/astar/Code/rust/pokeapi/README.md
