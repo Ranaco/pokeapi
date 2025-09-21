@@ -22,8 +22,8 @@ A blazingly fast Rust API server that acts as a proxy to the [PokeAPI](https://p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pokeapi-rust-proxy.git
-cd pokeapi-rust-proxy
+git clone https://github.com/Ranaco/pokeapi.git
+cd pokeapi
 ```
 
 ### Install Dependencies
